@@ -1,0 +1,8 @@
+Controle de Aluguéis - versão 4.0.7
+Cliente: renato-chaves
+
+Endereço de instalação (depois de publicado):
+https://arcmsq-dev.github.io/controle-alugueis-renato-chaves/
+
+Instalar: abra o endereço no Chrome e use 'Instalar app'.
+Faça um backup em Ajustes e guarde fora do aparelho.
